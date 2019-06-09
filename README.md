@@ -13,11 +13,11 @@ CI/CD
 **OС:** Unix (CentOS, RHEL)  
 **Резервное копирование:** Arcserve, Veeam, Symantec, Acronis, Commvault  
 **БД:** SQL и noSQL  
-**Скрипты:** bash  
-**Облачные провайдеры:** OpenStack, google cloud, AWS, DO.
-Ansible, Terraform, Jenkins
+**Скрипты:** bash    
+**Облачные провайдеры:** OpenStack, google cloud, AWS, DO.  
+Ansible, Terraform, Jenkins  
 
-**Стаж:** 10 лет.
-**Английский:** intermediate.
-**Ищу:** долговременную/проектную работу.
-**Контакты:** @maxvandl
+**Стаж:** 10 лет.  
+**Английский:** intermediate.  
+**Ищу:** долговременную/проектную работу.  
+**Контакты:** @maxvandl  
